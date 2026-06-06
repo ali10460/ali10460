@@ -12,9 +12,7 @@
 
 💻 Full Stack Developer
 
-⚛️ React, Next.js, Express.js & NestJS
-
-🤖 Passionate about AI & Cloud
+⚛️ React, Express.js & NestJS
 
 🔥 Building Real World Projects
 
@@ -26,18 +24,6 @@
 
 - NodeJs
 - Express
-
----
-
-## 🛠️ Tech Stack
-
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-
-![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
 
 ---
 
