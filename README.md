@@ -1,12 +1,12 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&width=500&lines=Welcome+to+my+GitHub;Mern+Stack+Developer;Learning+NodeJs+and+Express" />
-</p>
+
 
 <div align="center">
 
 # Hi 👋 I'm Ali Reza
 
-## Mern Stack Developer
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&width=500&lines=Welcome+to+my+GitHub;Mern+Stack+Developer;Learning+NodeJs+and+Express" />
+</p>
 
 </div>
 
