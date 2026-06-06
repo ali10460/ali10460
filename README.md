@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&width=500&lines=Welcome+to+my+GitHub;Mern+Stack+Developer;Learning+NodeJs+and+Express" />
+</p>
+
 <div align="center">
 
 # Hi 👋 I'm Ali Reza
@@ -32,12 +36,3 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME)
-
-
-
-
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&width=500&lines=Welcome+to+my+GitHub;Mern+Stack+Developer;Learning+NodeJs+and+Express" />
-</p>
