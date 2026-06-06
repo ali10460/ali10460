@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-💻 Full Stack Developer
+💻 Mern Stack Developer
 
 ⚛️ React, Express.js & NestJS
 
