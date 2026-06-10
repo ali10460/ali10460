@@ -18,7 +18,7 @@
 
 💻 Mern Stack Developer
 
-⚛️ React, NodeJS and Express.js 
+⚛️ React, NodeJS and Express
 
 🔥 Building Real World Projects
 
