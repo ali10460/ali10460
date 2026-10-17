@@ -7,7 +7,7 @@
 
 <p align="center">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&width=500&lines=Welcome+to+my+GitHub;MERN+Stack+Developer;Learning+Python+&+Machine Learning" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&width=500&lines=Welcome+to+my+GitHub;MERN+Stack+Developer;Learning+Python+&+Machine+Learning" />
 </p>
 
 </div>
