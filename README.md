@@ -18,6 +18,8 @@
 
 💻 Mern Stack Developer
 
+💚 Learning Python + Django
+
 ⚛️ React, NodeJS and Express
 
 🔥 Building Real World Projects
